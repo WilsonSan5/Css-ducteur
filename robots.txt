@@ -1,0 +1,11 @@
+# robots.txt pour csséducteur.store
+User-agent: *
+Allow: /
+
+# Répertoire(s) à ne pas indexer
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+
+# Emplacement du Sitemap
+Sitemap: https://csséducteur.store/sitemap.xml
